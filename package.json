@@ -1,8 +1,8 @@
 {
   "name": "job-monitor",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Monitor de vagas de emprego",
+  "author": "Brendo Rocha",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
